@@ -1,2 +1,3 @@
 # Frontend-Focus-Landing-Page
-Let's start from this durgadevikh/Frontend-Focus-Landing-Page/blob/main/index.html landing page
+Let's start with this landing page.
+The site is live at https://durgadevikh.github.io/Frontend-Focus-Landing-Page/
